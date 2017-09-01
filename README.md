@@ -1,2 +1,2 @@
 # test2
-U2 is awesome
+We are awesome
